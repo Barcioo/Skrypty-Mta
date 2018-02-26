@@ -2,7 +2,7 @@
 --[[
 @Resource: System-głodu
 @Project: Gtao.pl
-@Author: Bartek. 
+@Author: Barcioo
 @Copyright 2018
 @Zakaz edycji autora 
 @Version 1.0.1 
